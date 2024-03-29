@@ -1,7 +1,7 @@
 # `DATA 730 assignment #11 repository`
 
 > :warning: **Do not clone this repository directly!**
-> Use the invite link instead: 
+> Use the invite link instead: https://github.com/UNC-DATA-730/assignments
 ## Instructions
 
 Complete the assignment [Jupyter notebook 📓](assignment11.ipynb) and push your completed copy to your assignment repository.
